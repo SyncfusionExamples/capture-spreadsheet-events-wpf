@@ -2,7 +2,7 @@
 
 This sample illustrates how to capture the clipboard events of **WPF Spreadsheet**.
 
-You can apture the clipboard operations using the [PreviewKeyDown](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.previewkeydown?view=netframework-4.6) event in the [WPF Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/wpf-spreadsheet-editor) (SfSpreadsheet) control, in which the copy/paste could be captured using the keyboard shortcuts.
+You can capture the clipboard operations using the [PreviewKeyDown](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.previewkeydown?view=netframework-4.6) event in the [WPF Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/wpf-spreadsheet-editor) (SfSpreadsheet) control, in which the copy/paste could be captured using the keyboard shortcuts.
 
 ``` csharp
 protected override void OnAttached()
